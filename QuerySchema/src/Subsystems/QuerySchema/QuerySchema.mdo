@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f06df8e3-c449-4003-876e-c9b4a4f3fa70">
+  <name>QuerySchema</name>
+  <synonym>
+    <key>ru</key>
+    <value>Query schema</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonModule.РаботаСоСхемойЗапроса</content>
+  <content>CommonModule.Общий</content>
+  <content>CommonModule.ОбщийКлиентСервер</content>
+  <content>CommonModule.КомпоновкаДанных</content>
+  <content>CommonModule.КомпоновкаДанныхКлиентСервер</content>
+  <content>DataProcessor.КонструкторСхемыЗапроса</content>
+</mdclass:Subsystem>
